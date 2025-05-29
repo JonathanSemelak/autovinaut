@@ -1,6 +1,6 @@
-<img src="logo_autovinaut.png" alt="AutoVinaut logo" align="right" width="120"/>
-
 # AutoVinaut
+
+<img src="logo_autovinaut.png" alt="AutoVinaut logo" align="left" width="240"/>
 
 <br clear="right"/>
 
