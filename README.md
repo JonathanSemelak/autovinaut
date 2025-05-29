@@ -1,5 +1,4 @@
-content = """<img src="logo_autovinaut.png" alt="AutoVinaut logo" align="right" width="120"/>
-
+"""<img src="logo_autovinaut.png" alt="AutoVinaut logo" align="right" width="120"/>
 # AutoVinaut
 
 _A lightweight command-line wrapper around **AutoDock Vina 1.2** and **Meeko** for quick, scriptable docking jobs._
