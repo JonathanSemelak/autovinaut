@@ -2,7 +2,9 @@
 
 # AutoVinaut
 
-A lightweight command-line wrapper around **AutoDock Vina 1.2** and **Meeko** for quick, scriptable docking jobs._
+<br clear="right"/>
+
+_A lightweight command-line wrapper around **AutoDock Vina 1.2** and **Meeko** for quick, scriptable docking jobs._
 
 * **Rigid and flexible receptor docking**
 * Retains rigid **cofactors** (e.g. heme, FAD) with a single flag
